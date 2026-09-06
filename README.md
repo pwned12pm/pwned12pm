@@ -1,2 +1,3 @@
-<img width="735" height="532" alt="Image" src="https://github.com/user-attachments/assets/c1afcfae-7238-491d-aa84-b65de21e66af" />
+[![](https://komarev.com/ghpvc/?username=pwned12pm&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><img width="735" height="532" alt="Image" src="https://github.com/user-attachments/assets/c1afcfae-7238-491d-aa84-b65de21e66af" />
 https://pwned12pm.straw.page
